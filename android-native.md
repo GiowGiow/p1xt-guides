@@ -14,15 +14,15 @@ publishing something you copied or cloned.
 
 
 ## Tier 0 - CS / Java Foundations
-- [ ] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
-- [ ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [x] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
+- [x] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [ ] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
 - [ ] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [ ] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [ ] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
-- [ ] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
+- [x] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
 
 ## Tier 1 - Android Fundamentals
 - [x] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
@@ -42,7 +42,7 @@ publishing something you copied or cloned.
 - [ ] Project: [Inventory App](./projects/android/Inventory.md)
 
 ## Tier 2 - Intermediate Android
-- [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) Complete by end of Tier 2 
+- [x] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) Complete by end of Tier 2 
 - [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Project: [Popular Movies, Stage 1](./projects/android/PopularMoviesStage1.md)
 - [ ] Project: [Popular Movies, Stage 2](./projects/android/PopularMoviesStage2.md)
@@ -55,15 +55,15 @@ publishing something you copied or cloned.
 
 
 ## Tier 3 - More CS 
-- [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) Complete by the end of Tier 3    
+- [x] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) Complete by the end of Tier 3    
 - [ ] Course: [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 - [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
-- [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
+- [x] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 - [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ] Project: Complete all challenges from the [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
 - [ ] Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
-- [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+- [x] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [ ] Project: Complete all challenges from the [Code Jam Round 1C 2015](https://code.google.com/codejam/contest/4244486/dashboard)
 - [ ] Course: [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
